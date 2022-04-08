@@ -3,7 +3,7 @@
     flex-direction: column;
     justify-content: space-between;
     
-    @include breakpoint(800px) {
+    @include breakpoint(660px) {
         flex-direction: row;
     }
 }
